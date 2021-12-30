@@ -1,0 +1,20 @@
+{
+  "name": "js-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/ajaytidke28297/node-js-web-app.git",
+  "author": "Ajay Tidke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaytidke28297/node-js-web-app/issues"
+  },
+  "homepage": "https://github.com/ajaytidke28297/node-js-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
